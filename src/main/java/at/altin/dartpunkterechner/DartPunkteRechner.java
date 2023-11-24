@@ -88,8 +88,10 @@ public class DartPunkteRechner extends Canvas implements Runnable {
             char multiplier = dartThrow.charAt(0);
             int points = Integer.parseInt(dartThrow.substring(1));
 
-            if(points > 20) {
-                invalid = true;
+            boolean isMitte = (points == 25 || points == 50) && multiplier == 'S';
+
+            if(!isMitte && points > 20) {
+                 invalid = true;
             } else {
 
                 switch (multiplier) {
