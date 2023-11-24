@@ -1,4 +1,4 @@
-package at.altin.modeltester.dartpunkterechner;
+package at.altin.dartpunkterechner;
 
 import javax.swing.*;
 import java.awt.*;

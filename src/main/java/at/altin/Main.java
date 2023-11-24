@@ -1,4 +1,4 @@
-package at.altin.modeltester;
+package at.altin;
 
 import java.awt.*;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package at.altin.modeltester;
+package at.altin;
 
 import javax.swing.*;
 import java.awt.*;
