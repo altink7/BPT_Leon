@@ -1,0 +1,15 @@
+
+P
+java:S1854,":Remove this useless assignment to local variable "letter".(³¨®ª
+O
+java:S1854*"9Remove this useless assignment to local variable "price".(î€²È
+T
+java:S1854)">Remove this useless assignment to local variable "viewsCount".(ñ©Ã´
+E
+java:S1481)"/Remove this unused "viewsCount" local variable.(ñ©Ã´
+@
+java:S1481*"*Remove this unused "price" local variable.(î€²È
+A
+java:S1481,"+Remove this unused "letter" local variable.(³¨®ª
+J
+java:S1481-"/Remove this unused "isEligible" local variable.(¬ôÕîøÿÿÿÿ
